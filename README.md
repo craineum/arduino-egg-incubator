@@ -15,7 +15,7 @@
 * Plexiglass
 
 The directions for the build can be found on
-[Instructables.com](http://instructables.com)
+[Instructables.com](http://www.instructables.com/id/Arduino-Egg-Incubator/)
 
 ### Gotcha's:
 * Make sure that you have the pins defined properly.
